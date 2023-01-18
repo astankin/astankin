@@ -5,4 +5,4 @@ I am Atanas Stankin
 
  I'm interested in back-end development; embedded programing, machine learning, QA.
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?astankin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiastankin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
