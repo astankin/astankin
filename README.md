@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Atanas Stankin
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,c#,html,css,django,bootstrap,postgresql,mysql,docker,arduino,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cs,html,css,django,bootstrap,postgresql,mysql,docker,arduino,selenium)](https://skillicons.dev)
 
  I'm interested in back-end development; front-end development, automation software testing, manual testing.
  
